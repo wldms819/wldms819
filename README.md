@@ -5,7 +5,7 @@
 
 <br/>
 
-<img alt="Java" src ="https://img.shields.io/badge/Java-0769AD.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img alt="SpringBoot" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img alt="Spring Data JPA" src ="https://img.shields.io/badge/Spring Data JPA-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img alt="Java" src ="https://img.shields.io/badge/Java-0769AD.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img alt="SpringBoot" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img alt="Spring Data JPA" src ="https://img.shields.io/badge/Spring Data JPA-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> 
 
 <br/>
 
@@ -13,20 +13,11 @@
 
 <br/>
 
-<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
-<img alt="STS" src ="https://img.shields.io/badge/STS-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-<img alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img alt="dbeaver" src ="https://img.shields.io/badge/dbeaver-382923.svg?&style=for-the-badge&logo=dbeaver&logoColor=white"/>
-<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
-<img alt="microsoftazure" src="https://img.shields.io/badge/azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+<img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/> <img alt="STS" src ="https://img.shields.io/badge/STS-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> <img alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img alt="dbeaver" src ="https://img.shields.io/badge/dbeaver-382923.svg?&style=for-the-badge&logo=dbeaver&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 
 <br/>
 
-<img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
-<img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
-<img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
-<img alt="Canva" src ="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-<img alt="Gather Town" src ="https://img.shields.io/badge/Gather Town-003DFF.svg?style=for-the-badge&logo=Gather Town&logoColor=white"/>
+<img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/> <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> <img alt="Canva" src ="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> <img alt="Gather Town" src ="https://img.shields.io/badge/Gather Town-003DFF.svg?style=for-the-badge&logo=Gather Town&logoColor=white"/>
 
 <!--
 **wldms819/wldms819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
