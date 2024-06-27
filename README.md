@@ -9,14 +9,14 @@
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img alt="Styled Components" src ="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
 </div>
 
 <div>
   <img alt="Java" src ="https://img.shields.io/badge/Java-0769AD.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img alt="SpringBoot" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <img alt="Spring Data JPA" src ="https://img.shields.io/badge/Spring Data JPA-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> 
 </div>
 
 <div>
