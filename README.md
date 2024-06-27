@@ -1,6 +1,8 @@
-### Hi I'm Jieun :)
+# Hi I'm Jieun :)
 
-# :📚:TECH STACKS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldms819)](https://github.com/anuraghazra/github-readme-stats)
+
+# 📚 MY TECH STACKS
 <div>
   <img alt="Vue" src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img alt="React" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -40,10 +42,6 @@
 </div>
 
 <!--
-**wldms819/wldms819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
