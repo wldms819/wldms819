@@ -4,7 +4,7 @@
 <div>
   <img alt="Vue" src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img alt="React" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
+  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
   <img alt="JQuery" src="https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -19,19 +19,14 @@
 </div>
 
 <div>
-  <img alt="JDBC" src ="https://img.shields.io/badge/JDBC-B8DBE4.svg?&style=for-the-badge&logo=Databricks&logoColor=black"/>
   <img alt="Oracle" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
-  <img alt="Apache Tomcat" src ="https://img.shields.io/badge/Apache Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache Tomcat&logoColor=black"/>
-  <img alt="postgresql" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
 <div>
   <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/> 
   <img alt="STS" src ="https://img.shields.io/badge/STS-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
-  <img alt="visualstudiocode" src ="https://img.shields.io/badge/visualstudiocode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
-  <img alt="dbeaver" src ="https://img.shields.io/badge/dbeaver-382923.svg?&style=for-the-badge&logo=dbeaver&logoColor=white"/> 
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
-  <img alt="HeidiSQL" src ="https://img.shields.io/badge/HeidiSQL-2C8100.svg?&style=for-the-badge&logo=Databricks&logoColor=white"/>
+  <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
 </div>
 
 <div>
