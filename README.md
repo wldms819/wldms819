@@ -2,7 +2,7 @@
 
 # :📚:TECH STACKS
 <div>
-  <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img alt="React" src =https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB/>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
   <img src="https://img.shields.io/badge/JQUERY-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
