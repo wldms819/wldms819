@@ -1,4 +1,4 @@
-### Hi I'm Jieun 👋
+### Hi I'm Jieun :)
 
 # :📚:TECH STACKS
 <div>
