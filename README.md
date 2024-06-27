@@ -39,11 +39,6 @@
   <img alt="Gather Town" src ="https://img.shields.io/badge/Gather Town-003DFF.svg?style=for-the-badge&logo=Gather Town&logoColor=white"/>
 </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldms819)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldms819)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
