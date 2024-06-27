@@ -1,9 +1,8 @@
 # Hi I'm Jieun :)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldms819)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldms819)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldms819)](https://solved.ac/wldms819/)
 
-# 📚 MY TECH STACKS
+# 📚 MY TECH
 <div>
   <img alt="Vue" src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img alt="React" src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
