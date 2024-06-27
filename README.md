@@ -13,7 +13,7 @@
 </div>
 
 <div>
-  <img alt="Java" src ="https://img.shields.io/badge/Java-0769AD.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
+  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white/> 
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img alt="SpringBoot" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <img alt="Spring Data JPA" src ="https://img.shields.io/badge/Spring Data JPA-59666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/> 
