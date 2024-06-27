@@ -25,7 +25,8 @@
 
 <div>
   <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/> 
-  <img alt="STS" src ="https://img.shields.io/badge/STS-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
+  <img alt="Visual Studio" src ="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> 
+  <img alt="Eclipse" src ="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> 
   <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/> 
 </div>
 
