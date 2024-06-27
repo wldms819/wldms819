@@ -1,7 +1,5 @@
 # Hi I'm Jieun :)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldms819)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldms819)](https://github.com/anuraghazra/github-readme-stats)
-
 # 📚 MY TECH
 <div>
   <img alt="Vue" src ="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
@@ -40,6 +38,8 @@
   <img alt="Canva" src ="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> 
   <img alt="Gather Town" src ="https://img.shields.io/badge/Gather Town-003DFF.svg?style=for-the-badge&logo=Gather Town&logoColor=white"/>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldms819)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wldms819)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
